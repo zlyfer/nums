@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">nums</string>
+    <string name="title_activity_main">nums</string>
+    <string name="package_name">net.zlyfer.nums</string>
+    <string name="custom_url_scheme">net.zlyfer.nums</string>
+</resources>
